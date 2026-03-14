@@ -1,0 +1,12 @@
+{
+  "name": "xiaoan-s-script",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "test:api": "tsx scripts/test.ts"
+  },
+  "devDependencies": {
+    "tsx": "^4.7.0",
+    "typescript": "^5.0.0"
+  }
+}
